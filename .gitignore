@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Location Based AR/Library/PackageCache
+/Location Based AR/ProjectSettings/XRSettings.asset
+/Location Based AR/Library/Bee
+/Location Based AR/Temp
